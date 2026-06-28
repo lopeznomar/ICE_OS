@@ -1,0 +1,292 @@
+# LOVABLE PROMPT — ICE™ Executive Insight Card v1.0
+
+## Mission
+
+Design and implement a premium floating component called **Executive Insight Card™**.
+
+This component represents the first public interaction with the ICE™ platform.
+
+ICE™ is an executive intelligence layer that complements ERP systems by helping business owners transform operational data into better business decisions.
+
+The component must not feel like advertising.
+
+It must feel like discovering something valuable.
+
+---
+
+## User Context
+
+Visitors arrive at this website looking for ERP implementation services (SAINT ERP).
+
+Many are business owners.
+
+Many are managers.
+
+Many already have ERP software.
+
+Most believe their problem is technology.
+
+Our mission is to make them realize their real challenge is business control and decision making.
+
+---
+
+## UX Goals
+
+The component should create curiosity.
+
+Not urgency.
+
+Not pressure.
+
+Not sales.
+
+Visitors should think:
+
+"I've never looked at my business that way."
+
+---
+
+## Component Type
+
+Floating Executive Card
+
+Never use:
+
+* Modal
+* Popup
+* Full-screen overlay
+* Aggressive banner
+
+---
+
+## Display Rules
+
+Wait approximately 8 seconds after page load.
+
+Show only if the visitor has started interacting with the page.
+
+Do not interrupt immediately.
+
+---
+
+## Position
+
+Desktop:
+
+Bottom Right
+
+24px margin
+
+Mobile:
+
+Bottom
+
+92% width
+
+Rounded corners
+
+---
+
+## Visual Language
+
+Inspired by:
+
+Apple
+
+Stripe
+
+Linear
+
+Notion
+
+Minimal
+
+Elegant
+
+Executive
+
+Premium
+
+Lots of white space.
+
+No marketing feeling.
+
+No flashing colors.
+
+No aggressive animations.
+
+---
+
+## Color Palette
+
+Neutral background.
+
+Soft shadows.
+
+Rounded corners.
+
+Use a premium deep blue accent to represent ICE™.
+
+Visual harmony with the existing SAINT website.
+
+---
+
+## Typography
+
+Large headline.
+
+Clean hierarchy.
+
+Short paragraphs.
+
+Very readable.
+
+---
+
+## Content
+
+Headline
+
+**Is your company really under control?**
+
+Body
+
+After helping companies implement ERP systems for more than four decades, we discovered something unexpected.
+
+ERP organizes operations.
+
+But better business decisions require something more.
+
+That is why ICE™ was created.
+
+Primary Button
+
+**Start Executive Assessment**
+
+Secondary Link
+
+**Learn about ICE™**
+
+---
+
+## Motion
+
+Slide from bottom.
+
+Fade in.
+
+Approximately 600 ms.
+
+Smooth.
+
+Elegant.
+
+No bouncing.
+
+---
+
+## Hover Effects
+
+Slight elevation.
+
+Soft shadow increase.
+
+Button subtle animation.
+
+Nothing exaggerated.
+
+---
+
+## Accessibility
+
+Keyboard navigation.
+
+ARIA labels.
+
+Reduced motion support.
+
+WCAG AA contrast.
+
+---
+
+## Responsive
+
+Perfect from
+
+320px
+
+to
+
+4K.
+
+---
+
+## Performance
+
+Pure CSS animations.
+
+Minimal JavaScript.
+
+Reusable component.
+
+Clean architecture.
+
+---
+
+## Close Button
+
+Include an elegant close icon.
+
+When closed:
+
+Store preference in Local Storage.
+
+Do not show again for 7 days.
+
+---
+
+## Analytics
+
+Prepare events:
+
+ExecutiveCardViewed
+
+ExecutiveCardClosed
+
+ExecutiveAssessmentClicked
+
+LearnICEClicked
+
+---
+
+## Future Compatibility
+
+The primary CTA will later connect to the ICE™ Executive Assessment.
+
+Design the architecture so this integration requires minimal changes.
+
+---
+
+## Deliverables
+
+Generate:
+
+* HTML
+* CSS
+* JavaScript
+* Responsive Layout
+* Reusable Component
+* Accessible Code
+* Clean File Structure
+
+---
+
+## Success Criteria
+
+The component should never feel like a popup.
+
+It should feel like a premium executive assistant quietly offering valuable insight.
+
+When users see it, they should become curious enough to begin discovering ICE™.
+
+This component represents the birth of the ICE™ experience.
